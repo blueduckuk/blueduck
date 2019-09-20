@@ -1,5 +1,5 @@
 
 
-Testing Static Github Pages (Personal) 
+Static site - onepage set-up. 
 
 [keithgreer.uk](https://keithgreer.uk)
