@@ -252,7 +252,7 @@ div.head strong { font-size:2.5em; font-weight:normal;  }
 }
 
 
-.contact-form { max-width:400px; } 
+.contact-form { max-width:400px; border:3px solid #fff; border-left:20px solid #fff;  } 
 .js-watermark watermark-create-free { display:none!important; visibility:hidden!important; } 
 
 
